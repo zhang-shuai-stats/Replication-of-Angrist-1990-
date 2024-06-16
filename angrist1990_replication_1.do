@@ -1,7 +1,3 @@
-/*
-1. 2024/6/12 开始修改
-2. 2024/6/15 修改完成
-*/
 clear
 cd /Users/zhangshuai/Desktop/interest/angrist1990_replication // 修改默认目录
 
